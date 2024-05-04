@@ -1,0 +1,53 @@
+.espacoAcima{
+    margin-top: 10em;
+    color: yellowgreen;
+}
+
+.nivel-liberado:hover{
+    background-color: #46ff6eec;
+}
+.nivel-bloqueado:hover{
+    background-color: #ff5246ec;
+}
+
+.btn-aula-circulo{
+    height: 125px;
+    width: 125px;
+    background-color: #82cdffea;
+    border-radius: 50%;
+    border: 0px solid #444444;
+    display: inline-block;
+    margin: 15px;
+    box-shadow: 5px 5px #737373;
+}
+.btn-aula-circulo-liberado{
+    height: 125px;
+    width: 125px;
+    background-color: #82cdffea;
+    border-radius: 50%;
+    border: 0px solid #444444;
+    display: inline-block;
+    margin: 15px;
+    box-shadow: 5px 5px #737373;
+}
+.btn-aula-circulo-liberado:hover{
+    background-color: #46ff6eec;
+}
+.btn-aula-circulo-bloqueado{    
+    height: 125px;
+    width: 125px;
+    background-color: #82cdffea;
+    border-radius: 50%;
+    border: 0px solid #444444;
+    display: inline-block;
+    margin: 15px;
+    box-shadow: 5px 5px #737373;
+}
+.btn-aula-circulo-bloqueado:hover{    
+    background-color: #ff5246ec;
+}
+
+
+.scroll-body{
+    overflow-y: scroll;
+}

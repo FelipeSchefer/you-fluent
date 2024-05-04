@@ -1,0 +1,9 @@
+.pointer {cursor: pointer;}
+.pointer:hover{
+    background-color: rgba(99, 99, 99, 0.925);
+}
+
+.navbar-background{
+    background-color: rgb(50, 51, 134);
+    color: white;
+}
